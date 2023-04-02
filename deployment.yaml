@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: ramisetty32/myflask:13
+      - image: ramisetty32/myflask:14
         name: flaskdemo
         resources: {}
 status: {}
